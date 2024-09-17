@@ -2,3 +2,5 @@ Dataset/
 Train data/
 
 .env
+encoder.ipynb
+entrypoint.ipynb
